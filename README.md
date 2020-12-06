@@ -15,7 +15,7 @@ The goal of this project was to go through a real business case, clean & prepare
 [Data Flow Diagram](https://github.com/kumarsingaram3/datasci420-capstone/blob/main/DFD_capstone.PNG)
 
 
-[Data Modeling](https://github.com/kumarsingaram3/datasci420-capstone/blob/main/DataSci420-Capstone.ipynb)
+[Main - Data Modeling](https://github.com/kumarsingaram3/datasci420-capstone/blob/main/DataSci420-Capstone.ipynb)
 
 
 
