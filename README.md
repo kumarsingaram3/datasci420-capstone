@@ -7,6 +7,20 @@ Generally, to ensure or predict quality, a diaper manufacturer needs to monitor 
 
 The goal of this project was to go through a real business case, clean & prepare data, handle class imbalance, and build & test each of the algorithms learned in class.
 
+# Technologies
+
+* Python
+* Pandas
+* Jupyter
+* Sklearn
+* TensorFlow
+
+# Methods
+
+* Machine Learning
+* Predictive Modeling
+
+
 # Components
 
 [Diaper Manufacturing Process Detail](https://github.com/kumarsingaram3/datasci420-capstone/blob/main/Diaper%20Manufacturing%20Process.docx)
