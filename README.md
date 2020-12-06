@@ -17,8 +17,9 @@ The goal of this project was to go through a real business case, clean & prepare
 
 # Methods
 
-* Machine Learning
-* Predictive Modeling
+* Feature Selection
+* Handling Class Imbalance
+* Machine Learning Techniques
 
 
 # Components
