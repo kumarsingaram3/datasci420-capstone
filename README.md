@@ -11,6 +11,7 @@ The goal of this project was to go through a real business case, clean & prepare
 
 * Python
 * Pandas
+* Numpy
 * Jupyter
 * Sklearn
 * TensorFlow
@@ -35,9 +36,8 @@ The goal of this project was to go through a real business case, clean & prepare
 # Installation
 
 * Clone this repo to your computer
-* Load 'SECOM' data (into folder 'data' or different folder name)
-* Load 'labels' data
-* Install tensorflow (pip install tensorflow)
+* Save [SECOM data](https://github.com/kumarsingaram3/datasci420-capstone/blob/main/secom.data) to your computer (into 'data' folder)
+* Save [labels data](https://github.com/kumarsingaram3/datasci420-capstone/blob/main/secom_labels.data) to your computer (into 'data' folder)
 
 
 
