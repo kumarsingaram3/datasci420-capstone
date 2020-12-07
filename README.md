@@ -32,5 +32,12 @@ The goal of this project was to go through a real business case, clean & prepare
 
 [Main - Data Modeling](https://github.com/kumarsingaram3/datasci420-capstone/blob/main/DataSci420-Capstone.ipynb)
 
+# Installation
+
+* Clone this repo to your computer
+* Load 'SECOM' data (into folder 'data' or different folder name)
+* Load 'labels' data
+* Install tensorflow (pip install tensorflow)
+
 
 
