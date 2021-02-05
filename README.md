@@ -2,6 +2,14 @@
 
 Capstone - Classifying defective products in the diaper manufacturing process. This project is a part of the Data Science 420 capstone project at the University of Washington. You can find detail about the diaper manufacturing process [here](https://github.com/kumarsingaram3/datasci420-capstone/blob/main/Diaper%20Manufacturing%20Process.docx). To read or run the script for this project, click [here](https://github.com/kumarsingaram3/datasci420-capstone/blob/main/DataSci420-Capstone.ipynb).
 
+## Table of Contents
+
+- [Project Description](#project-description)
+- [Findings](#findings)
+- [Technologies](#technologies)
+- [Methods](#methods)
+- [Installation](#installation)
+
 ## Project Description
 
 To ensure or predict quality, a diaper manufacturer needs to monitor every step of the manufacturing process with sensors such as heat sensors, glue sensors, glue level, etc. To classify defective products in the diaper manufacturing process, we used the SECOM data set from the UCI Machine Learning Repository, which contained these sensors. This data set was then joined to a data set of labels, indicating whether a product was defective or not. 
